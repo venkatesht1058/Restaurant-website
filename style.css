@@ -1,0 +1,112 @@
+.cartIon , .wishlistIon{
+    position: relative;
+    background-color:#E6BE8A;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 24px;
+  }
+
+  #span{
+    color: white;
+  }
+
+ 
+
+
+  #royal{
+    background-image: url("Images/shape-1.png");
+  }
+
+  #menu{
+    background-image: url("Images/our-menu-bg-1.png");
+    background-repeat: no-repeat;
+  }
+  #story{
+    background-image: url("Images/our-menu-bg-3.jpg");
+  }
+  #strength{
+    background-image: url("Images/our-menu-bg-3.jpg");
+
+  }
+  #tablebg{
+    background-image: url('Images/footer-form-bg.png');
+
+  }
+
+  #footer{
+    background-image: url("Images/footer-bg.jpg");
+  }
+  #bgfooter{
+    background-image: url("Images/footer-form-bg.png");
+  }
+
+
+
+
+  .products-container{
+    justify-content: space-around;
+    /* margin: 0 auto; */
+    margin-top: 20px;
+    color: white;
+  }
+
+  .product-header{
+    display: flex;
+    justify-content:space-between;
+    border-bottom: 4px solid #E6BE8A;
+
+  }
+
+
+  .products{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+  }
+
+  .containerCartItems{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .basketTotalContainer{
+    display: flex;
+    margin-top: 15px;
+    padding: 20px 0;
+    justify-content: space-between;
+    border-top: 5px solid #E6BE8A;
+    border-bottom:5px solid #E6BE8A;
+  }
+
+
+  .productName{
+    color: aliceblue;
+  }
+
+
+.line{
+  border-top: 5px solid #E6BE8A; 
+}
+
+
+  .fa1{
+    background-color: blue;
+  }
+
+
+  .social{
+    font-size: large;
+    margin-right: 20px;
+  }
+
+
+  .foodname{
+    color: #E6BE8A;
+  }
+
+
+
+
